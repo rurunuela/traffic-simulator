@@ -1,0 +1,37 @@
+{
+	"id":"sim1",
+	"creator":"richard",
+	"cars":[
+		{"id":10,"road":0,"delay":10,"speed":5},
+        {"id":20,"road":1,"delay":10,"speed":2},
+        {"id":30,"road":2,"delay":10,"speed":5},
+        {"id":40,"road":3,"delay":10,"speed":4},
+        {"id":50,"road":4,"delay":10,"speed":4},
+        {"id":50,"road":5,"delay":10,"speed":10}
+
+
+		
+	],
+    "paths":[
+      {"id":0 , 
+      "start":"11 rue quai de la Fosse,Nantes,France",
+      "stop":"43 rue de sully,Nantes,France"} ,
+      {"id":1 , 
+      "start":"1 rue Gambetta,Nantes,France",
+      "stop":"43 rue de Budabest,Nantes,France"} ,
+      {"id":2 , 
+      "start":"1 rue Crucy,Nantes,France",
+      "stop":"5 rue D'erlon,Nantes,France"}, 
+      {"id":3 , 
+      "start":"1 rue Descartes,Nantes,France",
+      "stop":"5 rue de Rieux,Nantes,France"} 
+      , 
+      {"id":4 , 
+      "start":"1 rue de Dalby,Nantes,France",
+      "stop":"5 rue du commerce,Nantes,France"} , 
+      {"id":5 , 
+      "start":"Place de bretagne,Nantes,France",
+      "stop":"5 rue de la mitrie,Nantes,France"} 
+    ]
+	
+}
